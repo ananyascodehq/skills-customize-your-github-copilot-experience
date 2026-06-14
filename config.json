@@ -78,5 +78,20 @@
         }
       ]
     }
+    ,
+    {
+      "id": "reaction-timer",
+      "title": "Reaction Timer Game",
+      "description": "Build a reaction timer to measure and analyze player reaction times.",
+      "path": "assignments/games-in-python/reaction-timer",
+      "dueDate": "2026-07-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    }
   ]
 }
